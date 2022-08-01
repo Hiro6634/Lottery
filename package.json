@@ -1,0 +1,22 @@
+{
+  "name": "lottery",
+  "version": "1.0.0",
+  "description": "Excercise #2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hiro6634/Lottery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hiro6634/Lottery/issues"
+  },
+  "homepage": "https://github.com/Hiro6634/Lottery#readme",
+  "dependencies": {
+    "solc": "^0.4.17"
+  }
+}
