@@ -17,6 +17,6 @@ beforeEach( async() => {
 
 describe('Lottery', () => {
     it('deploys a contract', () => {
-        console.log(lottery);
+        assert.ok(lottery.options.address);
     }); 
 });
