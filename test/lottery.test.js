@@ -19,4 +19,16 @@ describe('Lottery', () => {
     it('deploys a contract', () => {
         assert.ok(lottery.options.address);
     }); 
+
+    it('assign manager account', () => {
+        // console.log(lottery);
+        console.log("MANAGER:");
+
+    });
+    //     console.log("Manager:", lottery.manager);
+    //     //console.log(accounts[0]);
+    //     //assert.equal(lottery.manager, accounts[0]);
+    // });
 });
+
+
